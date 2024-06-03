@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "708790568587",
+    "firebase_url": "https://moh2-f7142-default-rtdb.firebaseio.com",
+    "project_id": "moh2-f7142",
+    "storage_bucket": "moh2-f7142.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708790568587:android:02e15d4138cdc2f8c7f68e",
+        "android_client_info": {
+          "package_name": "com.example.cdrb_01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDERyi2cChEzn_UEUPZvWfwRG3zKjfe5_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
